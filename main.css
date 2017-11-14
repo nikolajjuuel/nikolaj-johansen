@@ -36,6 +36,7 @@ h2 {
       font-family: 'Playfair Display', cursive; }
 
 .navbar {
+  position: absolute;
   font-family: 'Helvetica Neue', cursive;
   margin-top: 70px;
   width: 100%;
@@ -234,5 +235,8 @@ h2 {
   background-position: center;
   background-size: cover;
   margin-bottom: auto; }
+
+.background2 {
+  background: url(./images/tree.jpg); }
 
 /*# sourceMappingURL=main.css.map */
